@@ -1,2 +1,2 @@
-# Loan-Approval-Predictor-Using-Decision-Trees-Scikit-Learn
+# Loan-Approval-Predictor-Using-Decision-Trees-Scikit-Learn.
 ...
